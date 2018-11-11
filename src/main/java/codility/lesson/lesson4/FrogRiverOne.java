@@ -3,7 +3,7 @@ package codility.lesson.lesson4;
 import java.util.HashSet;
 import java.util.Set;
 
-public class PermMissingElem {
+public class FrogRiverOne {
 
 	public static void main(String[] args) {
 		int a = solution(5, new int[] {1, 2, 3, 4, 6, 5});

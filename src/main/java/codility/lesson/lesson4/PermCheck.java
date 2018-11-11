@@ -1,4 +1,4 @@
-package codility.lesson.lesson3;
+package codility.lesson.lesson4;
 
 public class PermCheck {
 
